@@ -7,6 +7,8 @@ import {
 } from 'react-native';
 import { connect } from 'react-redux';
 import { Actions } from 'react-native-router-flux';
+import Login from './login';
+import Secured from './secured';
 
 class Landing extends Component {
   static propTypes = {
@@ -16,15 +18,14 @@ class Landing extends Component {
   render () {
     const {routes} = this.context;
     //const goToPageTwo = () => Actions.pageTwo({text: 'Helo world'});
-    return (
-      <View style={styles.outerContainer}>
-        <Text>
-          The current scene is titled {this.props.routes.scene.title}.
-        </Text>
-        <Text onPress={Actions.rootTabBar}>This is PageOne!</Text>
-      </View>
 
-    );
+    /*  if (this.props.isLoggedIn) {
+          return <Secured />;
+      } else {}*/
+          return <Login />;
+
+
+
   }
 }
 
@@ -38,5 +39,10 @@ const styles = StyleSheet.create({
     flex: 1
   }
 })
+const mapStateToProps = (state, ownProps) => {
+    return {
+      //  isLoggedIn: state.auth.isLoggedIn
+    };
+}
 
-export default connect(({routes}) => ({routes}))(Landing);
+export default connect(mapStateToProps)(Landing);

@@ -2,13 +2,10 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import reducers from '../reducers/index';
 import createLogger from 'redux-logger';
 
-//const loggerMiddleware = createLogger({ predicate: (getState, action) => __DEV__ })
-
 export default function configureStore () {
-  const enhancer = compose(
-    
-  )
-  const store = createStore(reducers, enhancer)
+
+
+  const store = createStore(reducers, applyMiddleware(createLogger))
 
   if (module.hot) {
     module.hot.accept(() => {

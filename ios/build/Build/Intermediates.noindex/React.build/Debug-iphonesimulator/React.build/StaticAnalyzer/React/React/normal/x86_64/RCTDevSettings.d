@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/nouha/GroceryShop/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/nouha/GroceryShop/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nouha/GroceryShop/GroceryShop/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/nouha/GroceryShop/GroceryShop/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

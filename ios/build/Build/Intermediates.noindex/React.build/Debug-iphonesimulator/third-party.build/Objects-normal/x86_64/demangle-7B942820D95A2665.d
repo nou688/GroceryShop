@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/nouha/GroceryShop/node_modules/react-native/third-party/glog-0.3.4/src/demangle.cc \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h \
-  /Users/nouha/GroceryShop/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/third-party/glog-0.3.4/src/demangle.cc \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h \
+  /Users/nouha/GroceryShop/GroceryShop/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h
