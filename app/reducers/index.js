@@ -6,8 +6,9 @@ import auth from './auth';
 // ... other reducers
 
 const rootReducer = combineReducers({
-  routes,
-  auth
+  //routes,
+  auth,
+  routes
   // ... other reducers
 });
 export default rootReducer;

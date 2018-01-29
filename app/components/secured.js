@@ -25,7 +25,7 @@ class Secured extends Component {
 
 const mapStateToProps = (state, ownProps) => {
     return {
-        username: state.auth.username
+        username: state.defaultState.username
     };
 }
 

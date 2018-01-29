@@ -39,9 +39,9 @@ const styles = StyleSheet.create({
     flex: 1
   }
 })
-const mapStateToProps = (state, ownProps) => {
+const mapStateToProps = (state, props) => {
     return {
-      //  isLoggedIn: state.auth.isLoggedIn
+      isLoggedIn: state.auth.isLoggedIn
     };
 }
 
